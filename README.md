@@ -1,0 +1,1 @@
+Welcome to Conrad Austin's Github repository. I am a UW student majoring in Mechanical Engineering. There are 3 repoitories for the creation and analysis of propellers, made for the UW Human Powered Submarine Club
